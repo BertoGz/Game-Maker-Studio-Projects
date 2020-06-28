@@ -9,3 +9,4 @@ This was game was designed for phones.  Uses's a multitouch screen code that
 I had developed from scatch, The enemies have 3 states.  idle, wander, and chase. 
 If the enemy is somehow alerted, it starts wandering near the player.
 The enemy starts chasing once the player enter's the field of view of the zombie.
+I was trying to integrate network play but never finished it.
